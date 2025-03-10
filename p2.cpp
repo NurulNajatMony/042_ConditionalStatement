@@ -19,7 +19,7 @@ float hitungLuasBerparameter(float a, float b){
     return a * b;
 }
 
-void tampilkanFungsiLuas(){
+void tampilkanFungsiLuas(){ 
     cout << "Luas persegi panjang (fungsi tidak berparameter): " << fungsiLuas() << endl;
 }
 
